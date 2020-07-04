@@ -2818,7 +2818,7 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #21b2a6;
-			color: #c8ece9;
+			color: #d4cfcc;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -4909,7 +4909,8 @@ input, select, textarea {
 			position: relative;
 			width: 100%;
 		}
-
+		
+		/* gallery图片大小 */
 		.gallery.style2 article {
 			-moz-flex-grow: 0;
 			-webkit-flex-grow: 0;
