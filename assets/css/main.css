@@ -2799,7 +2799,7 @@ input, select, textarea {
 			@media screen and (max-width: 1280px) {
 
 				.wrapper > .inner {
-					width: 80%;
+					width: 90%;
 				}
 
 			}
@@ -3601,8 +3601,8 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		cursor: default;
-		height: 90vh;
-		min-height: 15em;
+		height: 100vh;
+		min-height: 35em;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
